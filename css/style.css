@@ -1,0 +1,40 @@
+/* general */
+@import '/css/general.css';
+/* wrapper */
+@import '/css/wrapper.css';
+/* container */
+@import '/css/blocks/container.css';
+/* header */
+@import "/css/blocks/header.css";
+/* head */
+@import "/css/blocks/head.css";
+/* logo */
+@import "/css/blocks/logo.css";
+/* nav */
+@import '/css/blocks/nav.css';
+/* intro */
+@import '/css/blocks/intro.css';
+/* banner */
+@import '/css/blocks/banner.css';
+/* courses */
+@import '/css/blocks/courses.css';
+/* slider */
+@import '/css/blocks/slider.css';
+/* slide */
+@import '/css/blocks/slide.css';
+/* about-us */
+@import '/css/blocks/about-us.css';
+/* education */
+@import '/css/blocks/education.css';
+/* recruting */
+@import '/css/blocks/recruting.css';
+/* master-classes */
+@import '/css/blocks/master-classes.css';
+/* why-we */
+@import '/css/blocks/why-we.css';
+/* offers */
+@import '/css/blocks/offers.css';
+/* callback */
+@import '/css/blocks/callback.css';
+/* footer */
+@import '/css/blocks/footer.css';

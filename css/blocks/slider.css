@@ -1,0 +1,28 @@
+.slider-pagination {
+  position: absolute !important;
+  text-align: center;
+}
+.slide-prev-btn,
+.slide-next-btn {
+  position: absolute;
+  z-index: 1;
+  cursor: pointer;
+  top: 50%;
+  margin-top: -11px;
+}
+.slide-prev-btn {
+  left: -42px;
+}
+.slide-next-btn {
+  right: -42px;
+}
+.swiper-pagination-bullet {
+  background-color: #b7ecb1 !important;
+  opacity: 1;
+  width: 15px;
+  height: 15px;
+  margin-left: 12px !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: #55a630 !important;
+}

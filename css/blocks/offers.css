@@ -1,0 +1,19 @@
+.offers {
+  margin-top: 163px;
+}
+.offers__slider-wrapper {
+  position: relative;
+}
+.offers__slider {
+  margin-top: 77px;
+  overflow: hidden;
+}
+.offers__slider-pagination {
+  top: 455px !important;
+}
+.offers__slider-prev {
+  left: -30px;
+}
+.offers__slider-next {
+  right: -30px;
+}

@@ -1,0 +1,52 @@
+.about-us {
+}
+.about-us__items {
+  display: flex;
+  justify-content: space-between;
+}
+.about-us__item {
+}
+.about-us__img {
+  max-width: 100%;
+}
+.about-us__item-content {
+  max-width: 484px;
+  padding-right: 10px;
+}
+.about-us__sup-title {
+  margin-top: 5px;
+  color: #858585;
+  font-size: 25px;
+  font-weight: 500;
+}
+.about-us__title-name-company {
+  color: var(--accent-color);
+}
+.about-us__title {
+  margin-top: 34px;
+  text-align: left;
+  line-height: 107%;
+}
+.about-us__description {
+  margin-top: 70px;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 29px;
+}
+.about-us__paragraph {
+  margin-bottom: 17px;
+}
+.about-us__link {
+  color: var(--accent-color);
+  font-size: 25px;
+  font-weight: 500;
+  position: relative;
+  top: 45px;
+  left: 228px;
+}
+.about-us__link::after {
+  content: url(/images/about-us-arrow.svg);
+  position: absolute;
+  top: 2px;
+  right: -109px;
+}

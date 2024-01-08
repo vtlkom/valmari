@@ -1,0 +1,42 @@
+:root {
+  --main-text-color: #424242;
+  --accent-color: #55a630;
+  --accent-color-2: #00a896;
+  --accent-color-3: #4340b4;
+  --ligth-accent-color: #ecffeb;
+  --white: #ffffff;
+}
+html,
+body {
+  height: 100%;
+  font-size: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  color: var(--main-text-color);
+}
+a {
+  text-decoration: none;
+  color: var(--main-text-color);
+  font-family: "Montserrat", sans-serif;
+}
+.main {
+  flex-grow: 1;
+}
+.btn {
+  padding: 0;
+  border: none;
+  background-color: var(--accent-color);
+  color: #fff;
+  line-height: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.title {
+  color: var(--main-text-color);
+  text-align: center;
+  font-size: 35px;
+  font-weight: 600;
+}

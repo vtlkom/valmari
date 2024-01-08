@@ -1,0 +1,46 @@
+.head {
+  margin-top: 1px;
+  height: 86px;
+  border-bottom: 1px solid rgba(85, 166, 48, .5)
+}
+.head__wrapper {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: cetner;
+}
+.head__items {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.head__tel {
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 35px;
+}
+.head__tel::before {
+  content: url(/images/Phone_icon.svg);
+  position: relative;
+  left: -22px;
+  top: 3px;
+}
+.head__social {
+  margin-left: 79px;
+}
+.head__social-img-facebook {
+  margin-bottom: 1px;
+}
+.head__social-img-instagram {
+  margin-top: 2px;
+  margin-left: 21px;
+}
+.head__lang {
+  display: flex;
+  align-items: center;
+  margin-left: 66px;
+}
+.head__lang-arow {
+  margin-left: 13px;
+  margin-top: 3px;
+}

@@ -1,0 +1,45 @@
+.callback {
+  margin-top: 265px;
+}
+.callback__content-wrapper {
+  padding-top: 75px;
+  padding-bottom: 74px;
+  box-shadow: 0px 2px 20px 0px rgba(66, 66, 66, 0.15);
+}
+.callback__title {
+  font-size: 30px;
+  color: var(--accent-color);
+}
+.callback__text {
+  margin-top: 25px;
+  margin-bottom: 60px;
+  color: #424242;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.callback__form {
+  max-width: 427px;
+  margin: 0 auto;
+}
+.callback__input {
+  width: 100%;
+  border: 1px solid var(--accent-color);
+  padding: 20px 34px 22px;
+  color: #9c9c9c;
+  font-size: 14px;
+  font-weight: 400;
+  outline: none;
+  margin-bottom: 14px;
+}
+.btn {
+}
+.callback__btn {
+  padding: 24px 0 24px;
+  width: 100%;
+  margin-top: 17px;
+  color: #fff;
+  font-size: 23px;
+  font-weight: 600;
+}

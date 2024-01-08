@@ -1,0 +1,11 @@
+.logo {
+  display: flex;
+  align-items: center;
+}
+.head__logo {
+  padding-top: 2px;
+}
+.logo__text {
+  margin-left: 10px;
+  font-size: 11px;
+}
